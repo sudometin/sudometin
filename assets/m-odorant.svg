@@ -5,7 +5,7 @@
 <radialGradient id="halo"><stop offset="0" stop-color="#ff6b1a" stop-opacity=".22"/><stop offset="1" stop-color="#ff6b1a" stop-opacity="0"/></radialGradient>
 <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace} .s{font-family:-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif} .bl{animation:bl 1.1s steps(1) infinite} @keyframes bl{50%{opacity:0}}</style>
 </defs>
-<rect width="600" height="630" rx="14" fill="#07080c"/>
+<rect x="4.5" y="3" width="591" height="624" rx="14" fill="#07080c"/>
 <g transform="translate(100 -10)">
 <circle cx="200" cy="185" r="170" fill="url(#halo)"/>
 <path d="M115.80743403347026 300 C93.80743403347026 250 137.80743403347026 200 115.80743403347026 150 S97.80743403347026 70 121.80743403347026 20" fill="none" stroke="#ff6b1a" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="40 260" opacity="0"><animate attributeName="stroke-dashoffset" values="0;-300" dur="6.6s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.55;0" dur="6.6s" begin="1.8s" repeatCount="indefinite"/></path>

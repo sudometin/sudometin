@@ -5,7 +5,7 @@
 <radialGradient id="halo"><stop offset="0" stop-color="#ff6b1a" stop-opacity=".22"/><stop offset="1" stop-color="#ff6b1a" stop-opacity="0"/></radialGradient>
 <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace} .s{font-family:-apple-system,'Helvetica Neue',Helvetica,Arial,sans-serif} .bl{animation:bl 1.1s steps(1) infinite} @keyframes bl{50%{opacity:0}}</style>
 </defs>
-<rect width="1000" height="310" rx="14" fill="#07080c"/>
+<rect x="4.5" y="3" width="991" height="304" rx="14" fill="#07080c"/>
 <text x="70" y="40" class="m" font-size="13" letter-spacing="3" fill="#6c7380">GC TRACE <tspan fill="#2a303c">//</tspan> <tspan fill="#e8e6e1">what I ship</tspan></text>
 <text x="960" y="40" text-anchor="end" class="m" font-size="12" fill="#6c7380">column: late-nights-5 · 40 → 280 °C · He 1 mL/min</text>
 <path d="M70 94V250H960" fill="none" stroke="#2a303c" stroke-width="1.2"/>
