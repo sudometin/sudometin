@@ -2,13 +2,13 @@
 
 <img src="assets/chromatogram.svg" width="100%" alt="GC trace: Efferent, Axial, Pulse, UNFINITUM">
 
-| RT (min) | compound | m/z | notes |
-|:--:|---|:--:|---|
-| `3.20` | [**Efferent**](https://github.com/sudometin/Efferent) | `ssh` | Telegram-native SSH fleet manager · keyless certs · GPU alerts · [try it →](https://t.me/TheEfferentBot) |
-| `7.60` | [**Axial**](https://github.com/sudometin/Axial) | `dcm` | macOS MRI viewer + DICOM de-identifier |
-| `11.6` | [**Pulse**](https://github.com/sudometin/Pulse-WebApp) | `pwa` | project heartbeat · Sunday weekly review |
-| `16.0` | [**UNFINITUM**](https://t.me/unfinitum) | `∞` | daily builds, code & papers · self-posting AI bot |
+<p>
+  <a href="https://github.com/sudometin/Efferent"><img src="assets/peak-1.svg" width="24.3%" alt="Efferent"></a>
+  <a href="https://github.com/sudometin/Axial"><img src="assets/peak-2.svg" width="24.3%" alt="Axial"></a>
+  <a href="https://github.com/sudometin/Pulse-WebApp"><img src="assets/peak-3.svg" width="24.3%" alt="Pulse"></a>
+  <a href="https://t.me/unfinitum"><img src="assets/peak-4.svg" width="24.3%" alt="UNFINITUM"></a>
+</p>
 
 <img src="assets/enose.svg" width="100%" alt="e-nose stack smellprint">
 
-<sub><code>◢◤ sniff → spike → ship</code> · <a href="https://t.me/unfinitum">t.me/unfinitum</a></sub>
+<p align="center"><sub><code>◢◤ sniff → spike → ship</code> · <a href="https://t.me/unfinitum">t.me/unfinitum</a> · <a href="https://t.me/TheEfferentBot">@TheEfferentBot</a></sub></p>
